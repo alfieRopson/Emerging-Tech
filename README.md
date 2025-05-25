@@ -9,3 +9,7 @@ alfie et.show.gz Dot2 showfile
 Microsoft Projection Mapping.avc Resolume Showfile
 
 midi theremin and ultrasonic trigger folders contain kicad project files
+
+Link to Capture File https://myntuac-my.sharepoint.com/:u:/g/personal/n1067397_my_ntu_ac_uk/EfvAf5Dc8PdMnaO8TO10--gBLIG8ppxRylPfLy_TPjcecw?e=hPuOsN
+
+Link to Video Assets https://myntuac-my.sharepoint.com/:f:/g/personal/n1067397_my_ntu_ac_uk/EuZve8bgMbRAsPguAyOVR-gBkFQ3IOzpsc9bqpKOynCcEA?e=M3Nbbo
