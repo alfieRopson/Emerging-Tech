@@ -4,7 +4,7 @@ This was created for files in connection with my fullfillment of he Emerging Tec
 
 MIDI_ultrasonic_trigger.ino Arduino Sketch for ultrasonic Triggers
 
-alfie et.show.gz Dot2 showfile
+alfie et.show.gz Dot2 showfile This can be viewed in the dot2 onpc software downloadable here: https://www.malighting.com/downloads/products/dot2/
 
 Microsoft Projection Mapping.avc Resolume Showfile
 
