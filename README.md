@@ -16,6 +16,8 @@ Microsoft Full production Spreadsheet contains the full production costing
 
 Emerging Tech final invoice is the final invoice
 
+Power Calculations Spreadsheet shows the power draw for each circuit
+
 Rigging Calculations Spreadsheet contains the weight bearing calculations for the truss and motors
 
 Link to Capture File https://myntuac-my.sharepoint.com/:u:/g/personal/n1067397_my_ntu_ac_uk/EfvAf5Dc8PdMnaO8TO10--gBLIG8ppxRylPfLy_TPjcecw?e=hPuOsN
